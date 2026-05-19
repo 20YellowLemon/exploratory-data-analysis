@@ -79,5 +79,3 @@ airbnb-eda/
 ## 6. License
 
 This project is released for educational and analytical use. The AirBnB Open Dataset is subject to its own terms on Kaggle — please review those before using the data in commercial applications.
-
----
