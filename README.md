@@ -4,11 +4,13 @@
 
 ---
 
+## 📚 Table of Contents
+
 1. [Project Overview](#1-project-overview)
 2. [Features](#2-features)
-3. [Prerequisites & Dependencies](#3-prerequisites-dependencies)
+3. [Prerequisites & Dependencies](#3-prerequisites--dependencies)
 4. [Dataset](#4-dataset)
-5. [Project Structures](#5-project-structure)
+5. [Project Structure](#5-project-structure)
 6. [License](#7-license)
 
 ---
