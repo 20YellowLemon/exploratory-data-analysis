@@ -11,7 +11,7 @@
 3. [Prerequisites & Dependencies](#3-prerequisites--dependencies)
 4. [Dataset](#4-dataset)
 5. [Project Structure](#5-project-structure)
-6. [License](#7-license)
+6. [License](#6-license)
 
 ---
 
